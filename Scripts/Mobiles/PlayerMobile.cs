@@ -1982,7 +1982,7 @@ namespace Server.Mobiles
 					strBase = RawStr;
 				}
 
-				return (strBase / 2) + 50 + strOffs;
+				return (strBase / 2) + 50 + strOffs + 50;
 			}
 		}
 
